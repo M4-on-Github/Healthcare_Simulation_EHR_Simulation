@@ -35,6 +35,3 @@ ENV/
 # OS
 .DS_Store
 Thumbs.db
-
-# Large Artifacts
-healthcare_dataset.csv
